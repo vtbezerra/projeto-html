@@ -1,0 +1,21 @@
+    body {
+    background-color: dodgerblue;
+    font-family: Palatino Linotype;
+}
+
+h1 {
+    text-align: center;
+}
+
+.container {
+    color: white;
+}
+
+.footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    background-color: white;
+    text-align: center;
+}
+
